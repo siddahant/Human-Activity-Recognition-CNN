@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-CNN
+# Human-Activity-Recognition
 Team Members {Team 2}:
 1) Monark Bandishbhai Parekh mparekh2@asu.ed 1222179426
 3) Siddahant Jain sjain198@asu.edu 1223151020
