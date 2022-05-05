@@ -7,7 +7,7 @@ Team Members {Team 2}:
  
 INSTRUCTIONS TO USE THE CODE:
 
-1) Download all the files in the git repository and unzip the "WISDM_ar_v1.1_raw" folder into a file by the same name.
+1) Download all the files in the git repository the "WISDM_ar_v1.1_raw" folder into a file by the same name.
 
 2) The prefered platform for executing this code is Google Collab.
 
